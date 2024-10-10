@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+<script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+<!-- CSS file -->
+<link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+<!-- Import pure.css -->
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Google font -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+<title>Week10_Homework</title>
+</head>
+
+<body>
+
+
+
+
+
+<div class="page"></div>
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1>Week10_Homework</h1>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <h2>The prevelance of Heart Disease Globally</h2>
+          <p>The global obesity epidemic is well established, with increases in obesity prevalence for most countries since the 1980s. Obesity contributes directly to incident cardiovascular risk factors, including dyslipidemia, type 2 diabetes, hypertension, and sleep disorders. </p>
+        </div>
+      </div>
+      <div class="pure-u-1-2">
+        <div id="map" class="vis-container"></div>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+        <div class="pure-u-1-2">
+            <div id="fitness" class="vis-container"></div>
+          </div>
+        <div class="pure-u-1-2">
+          <div class="description description-left">
+            <h2>Burning calories is a product of how long you exercise</h2>
+            <p> 
+                It's been established that obesity is a link to diabetes, so to reduce the risk of diabetes, it makes sense to lose fat.
+                A common method of doing so is to burn more calories than you eat. The visualisation demonstrates the correlation between the duration
+                you spend in the gym, and the amount of calories you burn as a result.
+            </p>
+            <br>
+            <p> 
+                The type of exercise can also affect the number of calories you burn while exercising, so it's worth it to investigate which exercise might 
+                be more suitable for certain people. And the data also reveals an interesting relationship between the exercise duration of an individual And
+                how frequently they will exercise.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- end pure grid group -->
+
+
+    <div class="pure-g">
+      <div class="pure-u-1-1 small-font">
+        <p>This visualisation is created by <a href="https://github.com/Joshuatanmy/FIT3179-2024" target="_blank">Joshua Tan</a>.</p>
+      </div>
+    </div>
+
+
+  </div> <!-- end page -->
+
+  <script type="text/javascript">
+    var specvis1 = "/WK10_HW/WK10_map.vg.json";
+    vegaEmbed('#map', specvis1).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var specvis2 = "/WK10_HW/WK10_Exercise.vg.json";
+    vegaEmbed('#fitness', specvis2).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+  </script>
+
+</body>
+</html>
+

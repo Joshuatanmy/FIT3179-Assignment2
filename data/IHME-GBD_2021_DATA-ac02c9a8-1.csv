@@ -1,0 +1,490 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,13,Malaysia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,4949274.0987322265,5228951.476797453,4683536.678252686
+5,Prevalence,13,Malaysia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1630602531533847,0.1719704585066249,0.1544081759120193
+5,Prevalence,13,Malaysia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15557.773813909951,16436.92443317363,14722.442692772082
+5,Prevalence,11,Republic of Indonesia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,37899779.21475137,40261991.21449761,35500098.39060521
+5,Prevalence,11,Republic of Indonesia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1404863817210109,0.1495945159882805,0.1315249034753373
+5,Prevalence,11,Republic of Indonesia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13588.329900209139,14435.261376113109,12727.96460602261
+5,Prevalence,10,Kingdom of Cambodia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1869685.628000936,1984385.078816532,1757017.9876855328
+5,Prevalence,10,Kingdom of Cambodia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.11280611110749,0.1196348870115238,0.105972731593986
+5,Prevalence,10,Kingdom of Cambodia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,10969.70862584415,11642.66644086287,10308.67172888578
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,849353.4285742402,899008.2142623775,801518.4671044168
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1192808312916834,0.126307639772442,0.1124004113962878
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,11512.672886982931,12185.72521793117,10864.28760302883
+5,Prevalence,6,People's Republic of China,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,217243871.24616843,230116857.2005555,205134077.10537335
+5,Prevalence,6,People's Republic of China,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1593562361448558,0.1689118428916015,0.1503782667304252
+5,Prevalence,6,People's Republic of China,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15269.33679274187,16174.135427282099,14418.18032896735
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,4180149.4495705,4388564.358912109,4010663.513398165
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.183587976533482,0.1924389717118146,0.1761444796421511
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,17685.00393884279,18566.74717244861,16967.95793727119
+5,Prevalence,9,Southeast Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,98811420.9327052,104258994.56852023,93463455.84492004
+5,Prevalence,9,Southeast Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1464082390176406,0.1543620049090669,0.1383893508923939
+5,Prevalence,9,Southeast Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14150.1865769428,14930.300683296111,13384.33680892182
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,3502213.4786387924,3696479.075760119,3310689.9987885896
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1385156320143429,0.1462690130897727,0.1308612050468878
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13269.84832575289,14005.918535189061,12544.16796847771
+5,Prevalence,29,Kingdom of Tonga,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,17085.324616160415,17962.925192279363,16258.961226466829
+5,Prevalence,29,Kingdom of Tonga,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1679987309531064,0.1766499357343083,0.1600151144745824
+5,Prevalence,29,Kingdom of Tonga,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16072.8155188291,16898.40780203547,15295.4240081348
+5,Prevalence,4,"Southeast Asia, East Asia, and Oceania",3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,325550367.1764278,343626992.1014986,308911992.2969521
+5,Prevalence,4,"Southeast Asia, East Asia, and Oceania",3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1550376558563262,0.1635722157492081,0.1470397526672458
+5,Prevalence,4,"Southeast Asia, East Asia, and Oceania",3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14899.28116973046,15726.58392995874,14137.80199313859
+5,Prevalence,5,East Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,224926234.17437783,238122041.6237501,212485128.8953899
+5,Prevalence,5,East Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1593737803827039,0.168817863913325,0.1505424163632221
+5,Prevalence,5,East Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15272.27501863683,16168.257655786869,14427.535933158631
+5,Prevalence,26,Independent State of Papua New Guinea,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1262419.5454653564,1343753.3577448456,1192032.1613738765
+5,Prevalence,26,Independent State of Papua New Guinea,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1234623852938544,0.1312765845500729,0.1164890530038473
+5,Prevalence,26,Independent State of Papua New Guinea,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,12067.20748464522,12844.66058398866,11394.38902965195
+5,Prevalence,28,Solomon Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,72484.49969300319,76557.36971628595,68738.24172246162
+5,Prevalence,28,Solomon Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1080502025635908,0.1142212542156534,0.1024777147553771
+5,Prevalence,28,Solomon Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,10603.903492401789,11199.73185359495,10055.85586641953
+5,Prevalence,27,Independent State of Samoa,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,35582.87858419851,37840.48162106603,33589.29967304723
+5,Prevalence,27,Independent State of Samoa,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1732447267835185,0.1848639451153853,0.1631384513878033
+5,Prevalence,27,Independent State of Samoa,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16655.54330231272,17712.276389575578,15722.393956267319
+5,Prevalence,25,Federated States of Micronesia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,17809.18918849429,18779.092222477186,16910.69797160365
+5,Prevalence,25,Federated States of Micronesia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1772226639945268,0.1869451843777571,0.168100523272779
+5,Prevalence,25,Federated States of Micronesia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,17361.64611301246,18307.1755844399,16485.73388712724
+5,Prevalence,23,Republic of Kiribati,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,18938.125827816195,19977.271775749483,17889.938339990942
+5,Prevalence,23,Republic of Kiribati,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1597821480722809,0.1687418116925333,0.1512957092937647
+5,Prevalence,23,Republic of Kiribati,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15630.54949937,16488.20681582865,14765.42976355071
+5,Prevalence,42,Central Europe,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,19368488.492187638,20281008.873964906,18543583.30336929
+5,Prevalence,42,Central Europe,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1734259683848927,0.1817737838841611,0.1661302864462848
+5,Prevalence,42,Central Europe,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16803.6152732847,17595.29509025134,16087.94820223621
+5,Prevalence,24,Republic of the Marshall Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,12724.738112737845,13632.0112731329,11943.266072425977
+5,Prevalence,24,Republic of the Marshall Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2319030261058953,0.2483785955512515,0.2174726389243096
+5,Prevalence,24,Republic of the Marshall Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,22612.470114297488,24224.738048079213,21223.75680639671
+5,Prevalence,22,Republic of Fiji,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,187105.31274422095,196732.10308878985,177989.4741975995
+5,Prevalence,22,Republic of Fiji,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2089235522276045,0.219420162778525,0.1984671882510122
+5,Prevalence,22,Republic of Fiji,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,20239.11065516654,21280.43691245014,19253.05385991179
+5,Prevalence,21,Oceania,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1812712.0693446824,1920820.3860831736,1720953.4954156852
+5,Prevalence,21,Oceania,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1333067536529933,0.1410689070070772,0.1263314466032052
+5,Prevalence,21,Oceania,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13015.271567086831,13791.48921621452,12356.44506149279
+5,Prevalence,20,Socialist Republic of Viet Nam,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,13003585.975360768,13769232.115501978,12221456.136836223
+5,Prevalence,20,Socialist Republic of Viet Nam,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.134523182255024,0.1423166466468052,0.1260566627808026
+5,Prevalence,20,Socialist Republic of Viet Nam,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,12968.848362397532,13732.44916524998,12188.80789550241
+5,Prevalence,19,Democratic Republic of Timor-Leste,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,141705.33248479004,150157.4132823779,133648.2674829354
+5,Prevalence,19,Democratic Republic of Timor-Leste,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.104501176317719,0.1108611207746775,0.098261546550629
+5,Prevalence,19,Democratic Republic of Timor-Leste,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,10138.22355166552,10742.92263461557,9561.78563837901
+5,Prevalence,17,Democratic Socialist Republic of Sri Lanka,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,4599037.590505786,4821131.716995709,4392640.209892556
+5,Prevalence,17,Democratic Socialist Republic of Sri Lanka,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.213652063172805,0.2236496563689798,0.2040108443423831
+5,Prevalence,17,Democratic Socialist Republic of Sri Lanka,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,20651.21829724936,21648.49527062061,19724.42496730931
+5,Prevalence,14,Republic of Maldives,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,67987.05245011834,73763.70747311009,63348.24997671871
+5,Prevalence,14,Republic of Maldives,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.135743213108451,0.1470705691611704,0.1264479314337311
+5,Prevalence,14,Republic of Maldives,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13145.019148551079,14261.91182377791,12248.12562042051
+5,Prevalence,18,Kingdom of Thailand,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,13749780.800056,14423738.550864508,13080996.146193476
+5,Prevalence,18,Kingdom of Thailand,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2116533550764821,0.2219322252790237,0.2013178363706832
+5,Prevalence,18,Kingdom of Thailand,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,20619.54325485228,21630.228530262822,19616.61569556759
+5,Prevalence,15,Republic of the Union of Myanmar,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,8334719.536416206,8769754.94918906,7931127.390368545
+5,Prevalence,15,Republic of the Union of Myanmar,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1517586505379296,0.159912527536249,0.1441987027003247
+5,Prevalence,15,Republic of the Union of Myanmar,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14772.71945397636,15543.789923397519,14057.380020976801
+5,Prevalence,32,Central Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,12787249.875554385,13411463.27974356,12223642.694263147
+5,Prevalence,32,Central Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1397174163789801,0.1465530676282705,0.1331703042863824
+5,Prevalence,32,Central Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13346.63164290884,13998.151434369698,12758.36931025725
+5,Prevalence,16,Republic of the Philippines,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,12859003.60962804,13674207.875233447,12099603.418511225
+5,Prevalence,16,Republic of the Philippines,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1181215917277331,0.1256872382698169,0.1110006574608614
+5,Prevalence,16,Republic of the Philippines,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,11354.5751189435,12074.40523580957,10684.02032503086
+5,Prevalence,30,Republic of Vanuatu,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,40314.4454010204,42312.889750253744,38182.54329743637
+5,Prevalence,30,Republic of Vanuatu,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1315410161591325,0.1380363215467982,0.1244357286404231
+5,Prevalence,30,Republic of Vanuatu,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,12880.75992719967,13519.277501589819,12199.60162497328
+5,Prevalence,76,Kingdom of Belgium,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1791535.140141423,1879970.0298228045,1698359.9620053652
+5,Prevalence,76,Kingdom of Belgium,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1646078633759783,0.1728097666383834,0.1559663694205322
+5,Prevalence,76,Kingdom of Belgium,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15620.304395189669,16391.36373141297,14807.914723365331
+5,Prevalence,77,Republic of Cyprus,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,204299.81840006183,215906.47051435104,194499.26537758985
+5,Prevalence,77,Republic of Cyprus,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1571198440681297,0.166126421959195,0.1494574446319784
+5,Prevalence,77,Republic of Cyprus,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15046.65176926758,15901.48000131602,14324.84247139239
+5,Prevalence,56,Eastern Europe,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,35740440.03477215,37727046.06778467,33854724.31232818
+5,Prevalence,56,Eastern Europe,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1797965227761132,0.1898506958044457,0.1700558132207122
+5,Prevalence,56,Eastern Europe,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,17286.02052144985,18246.85123929443,16373.98584465032
+5,Prevalence,31,"Central Europe, Eastern Europe, and Central Asia",3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,67896178.4025142,71283544.17606136,64716638.07772699
+5,Prevalence,31,"Central Europe, Eastern Europe, and Central Asia",3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1689015769228863,0.17745476009185,0.1609164195632322
+5,Prevalence,31,"Central Europe, Eastern Europe, and Central Asia",3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16249.6417471719,17060.34246084763,15488.6800492663
+5,Prevalence,75,Republic of Austria,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1212715.361863957,1270792.6124178336,1164047.7965394547
+5,Prevalence,75,Republic of Austria,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.141293285059579,0.1480992368375579,0.1354190167988825
+5,Prevalence,75,Republic of Austria,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13501.15011508712,14147.723666191681,12959.33451198304
+5,Prevalence,73,Western Europe,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,70819214.60619663,73880186.1316544,68014118.95480789
+5,Prevalence,73,Western Europe,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1696497709079804,0.1771490833467475,0.162778588964283
+5,Prevalence,73,Western Europe,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16191.34737464076,16891.17514805179,15550.02032288955
+5,Prevalence,74,Principality of Andorra,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,12894.805244484493,13594.254903520254,12200.612930740466
+5,Prevalence,74,Principality of Andorra,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1561333225932351,0.1645457685343152,0.14782189470855
+5,Prevalence,74,Principality of Andorra,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15065.19810843664,15882.37583857409,14254.16261518009
+5,Prevalence,70,Australasia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,4143219.363105804,4324867.4479383975,3963456.8444270017
+5,Prevalence,70,Australasia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1407383675478243,0.1469194614101881,0.1345350467124735
+5,Prevalence,70,Australasia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13381.86044834979,13968.55140263167,12801.25953684014
+5,Prevalence,93,Kingdom of Sweden,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1724315.011924154,1817663.9429856783,1629980.606661197
+5,Prevalence,93,Kingdom of Sweden,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1746753983509387,0.1841950990693006,0.165207739855114
+5,Prevalence,93,Kingdom of Sweden,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16622.28576555022,17522.163454535712,15712.908168672298
+5,Prevalence,91,Portuguese Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,2072455.5617386936,2193800.8889898187,1955399.0795739505
+5,Prevalence,91,Portuguese Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2030835481068854,0.2147407767825725,0.1913838463621802
+5,Prevalence,91,Portuguese Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,19537.00151630687,20680.92174613949,18433.51215240105
+5,Prevalence,92,Kingdom of Spain,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,8431664.276761523,8803877.64556058,8042576.688945542
+5,Prevalence,92,Kingdom of Spain,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1938050276647333,0.2025070670159696,0.1846389209362551
+5,Prevalence,92,Kingdom of Spain,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18511.06177159785,19328.2272131873,17656.85029730158
+5,Prevalence,64,High-income,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,208125961.9489504,215774377.8557874,200216401.88002503
+5,Prevalence,64,High-income,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1999866698920946,0.207565821269084,0.1924758453103562
+5,Prevalence,64,High-income,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,19064.98457207596,19765.60322579507,18340.44430197282
+5,Prevalence,90,Kingdom of Norway,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,761859.8553967024,801862.4660628678,718031.5069243785
+5,Prevalence,90,Kingdom of Norway,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1481692657922953,0.1562577511096232,0.1395515646478674
+5,Prevalence,90,Kingdom of Norway,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14061.461537861991,14799.779966522941,13252.53239958801
+5,Prevalence,88,Republic of Malta,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,86367.55789282039,90795.67913529497,81717.29575827319
+5,Prevalence,88,Republic of Malta,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2041552031820765,0.2145475221932579,0.1931542128619191
+5,Prevalence,88,Republic of Malta,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,19530.48975968255,20531.83075728379,18478.915543455172
+5,Prevalence,87,Grand Duchy of Luxembourg,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,89610.7208078946,94696.87254946525,84818.23146774275
+5,Prevalence,87,Grand Duchy of Luxembourg,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1460736145559431,0.1542841427111683,0.1380582322970695
+5,Prevalence,87,Grand Duchy of Luxembourg,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13908.95568905711,14698.404301494711,13165.08797689628
+5,Prevalence,89,Kingdom of the Netherlands,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,2606138.6078705555,2750736.382785498,2473788.143761676
+5,Prevalence,89,Kingdom of the Netherlands,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1593628845451759,0.1683523878716404,0.1516461987994786
+5,Prevalence,89,Kingdom of the Netherlands,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15142.58218803542,15982.74613182721,14373.57942880348
+5,Prevalence,86,Republic of Italy,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,9912114.855485914,10489265.07928819,9350621.625767972
+5,Prevalence,86,Republic of Italy,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1712472494926321,0.1813327940991582,0.1617697926368681
+5,Prevalence,86,Republic of Italy,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16572.26911696637,17537.218471288572,15633.4970137466
+5,Prevalence,85,State of Israel,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1134981.0877661298,1192214.3231568397,1081698.2288404326
+5,Prevalence,85,State of Israel,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1263450034717535,0.1329581761817378,0.1204859002266518
+5,Prevalence,85,State of Israel,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,11830.19225808154,12426.74861088983,11274.81166897245
+5,Prevalence,65,High-income Asia Pacific,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,45678494.61136925,47576333.38705381,43751596.547938704
+5,Prevalence,65,High-income Asia Pacific,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2579838682334011,0.2687149438058051,0.2471570487150185
+5,Prevalence,65,High-income Asia Pacific,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,24631.647813512132,25655.03741352434,23592.58829820256
+5,Prevalence,84,Ireland,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,678292.9510738335,707134.8145480216,648160.2966554121
+5,Prevalence,84,Ireland,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1450875258625379,0.151207100109045,0.1385743055854299
+5,Prevalence,84,Ireland,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13726.80783676268,14310.48885089905,13117.004718274691
+5,Prevalence,82,Hellenic Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1798708.1306367156,1886825.2530441312,1709803.1292663435
+5,Prevalence,82,Hellenic Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1839596225424725,0.1927497889556294,0.1750799963143546
+5,Prevalence,82,Hellenic Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,17677.877001848792,18543.90058018428,16804.1100730707
+5,Prevalence,83,Republic of Iceland,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,42145.63031999974,44393.2204029899,40102.91944448002
+5,Prevalence,83,Republic of Iceland,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1271642466399968,0.134042245385591,0.1206611084996801
+5,Prevalence,83,Republic of Iceland,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,12028.34520008813,12669.80646620833,11445.35637376928
+5,Prevalence,81,Federal Republic of Germany,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,14106958.679331698,14721603.305958198,13530209.818886029
+5,Prevalence,81,Federal Republic of Germany,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1728958511795425,0.1805031336743736,0.1659137147482287
+5,Prevalence,81,Federal Republic of Germany,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16524.13423132784,17244.095957013007,15848.561572159839
+5,Prevalence,109,Republic of Cuba,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1888142.1048934,1988608.560915131,1788783.499952669
+5,Prevalence,109,Republic of Cuba,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1712581586149756,0.1803702010878873,0.1619900120824175
+5,Prevalence,109,Republic of Cuba,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16754.40085289312,17645.88845443288,15872.74375142446
+5,Prevalence,79,Republic of Finland,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1044027.9734469564,1095837.4656795475,998562.10358558
+5,Prevalence,79,Republic of Finland,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1976304822135577,0.2078512486543988,0.1885404387239939
+5,Prevalence,79,Republic of Finland,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18859.141082204787,19795.01880604193,18037.85345778424
+5,Prevalence,107,Barbados,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,65501.16697480156,68508.74585827073,62334.906021366376
+5,Prevalence,107,Barbados,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2241393520648079,0.2344158510491069,0.21331911112514
+5,Prevalence,107,Barbados,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,21904.9282025174,22910.72401576062,20846.06586374238
+5,Prevalence,78,Kingdom of Denmark,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,847266.5468624727,891970.7531156477,806716.2060848947
+5,Prevalence,78,Kingdom of Denmark,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1529737961511041,0.1612162711569026,0.1455503516293922
+5,Prevalence,78,Kingdom of Denmark,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14478.77482738701,15242.716397573711,13785.81786423705
+5,Prevalence,80,French Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,8209717.23700922,8633157.819205467,7809660.650479345
+5,Prevalence,80,French Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1303179520007144,0.1371761981367389,0.1240711986834487
+5,Prevalence,80,French Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,12365.91727617103,13003.726235925169,11763.330547298741
+5,Prevalence,108,Belize,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,49587.450343775214,52519.87404046761,47232.60816587474
+5,Prevalence,108,Belize,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1199894140131368,0.127116730320194,0.1140943537366088
+5,Prevalence,108,Belize,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,11556.833761598551,12240.26339845827,11008.01507065706
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,16631.682978092267,17494.081308423833,15776.849969315888
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1907548350093471,0.2006582337959648,0.1809226836341285
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18604.57410127099,19569.27224171776,17648.3386994213
+5,Prevalence,106,Commonwealth of the Bahamas,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,62926.64141239309,66658.56600527809,59592.166287895765
+5,Prevalence,106,Commonwealth of the Bahamas,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1667771201275315,0.176698021030398,0.1578263377992702
+5,Prevalence,106,Commonwealth of the Bahamas,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16219.639695818549,17181.560925204838,15360.162948290048
+5,Prevalence,104,Caribbean,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,7318825.868265784,7657698.619134396,7015566.48270862
+5,Prevalence,104,Caribbean,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1581101923231833,0.1655056589437857,0.1515061602763942
+5,Prevalence,104,Caribbean,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15421.458556841311,16135.49550451929,14782.462339344049
+5,Prevalence,103,Latin America and Caribbean,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,81608177.37647791,85441930.37300041,77968139.7277743
+5,Prevalence,103,Latin America and Caribbean,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1421238529016311,0.1487854316297389,0.1357480029684246
+5,Prevalence,103,Latin America and Caribbean,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13736.00350825701,14381.28742836085,13123.32507920545
+5,Prevalence,125,Republic of Colombia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,6769457.958724415,7092000.275810588,6494528.370180767
+5,Prevalence,125,Republic of Colombia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1435992604174527,0.1506617785285166,0.1376566750084872
+5,Prevalence,125,Republic of Colombia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13798.20469150852,14455.643579520642,13237.81495844454
+5,Prevalence,101,Canada,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,6978538.804582439,7344605.8368725795,6599181.344616274
+5,Prevalence,101,Canada,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1972287609771917,0.2077521867305179,0.186744043241426
+5,Prevalence,101,Canada,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18624.7304595656,19601.711457659378,17612.27919468826
+5,Prevalence,94,Swiss Confederation,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1728552.960760626,1805780.1904352636,1644032.9051941435
+5,Prevalence,94,Swiss Confederation,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2031645248980927,0.2121390857034782,0.1929560874375904
+5,Prevalence,94,Swiss Confederation,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,19372.29022380072,20237.79353228996,18425.05453977218
+5,Prevalence,95,United Kingdom of Great Britain and Northern Ireland,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,12248344.680171205,12838639.964983832,11635954.098823063
+5,Prevalence,95,United Kingdom of Great Britain and Northern Ireland,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1899701917571708,0.1993655614519801,0.1804533014405721
+5,Prevalence,95,United Kingdom of Great Britain and Northern Ireland,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18052.52071861869,18922.541781663578,17149.93396535957
+5,Prevalence,124,Central Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,38002223.50625494,39785275.87348583,36400334.420632906
+5,Prevalence,124,Central Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1569423654849056,0.1640979933453626,0.1500914551073386
+5,Prevalence,124,Central Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15020.52928401641,15725.287790910561,14387.376281367182
+5,Prevalence,102,United States of America,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,71668417.53815664,74312114.11196822,69033397.4393068
+5,Prevalence,102,United States of America,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2264952647725864,0.2350324312905836,0.2180669494118727
+5,Prevalence,102,United States of America,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,21545.117813808658,22339.8717110383,20752.972257626257
+5,Prevalence,100,High-income North America,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,78654723.67818435,81482645.84351525,75655870.41699582
+5,Prevalence,100,High-income North America,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2235369126730828,0.2319084560351815,0.2151923652735879
+5,Prevalence,100,High-income North America,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,21248.01022079344,22011.95313817511,20437.89149219552
+5,Prevalence,120,Andean Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,6266439.196871165,6572115.166555705,5962018.377632767
+5,Prevalence,120,Andean Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.0975638639081961,0.1022498496461726,0.092679564507275
+5,Prevalence,120,Andean Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,9475.46744802401,9937.679337327141,9015.15346865364
+5,Prevalence,96,Southern Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,8830309.690094441,9288764.559751082,8400825.469729936
+5,Prevalence,96,Southern Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1360788358664669,0.1430608188641871,0.1291515708644039
+5,Prevalence,96,Southern Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13044.368832847531,13721.61058573019,12409.92329526836
+5,Prevalence,118,Republic of Suriname,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,106195.81435618296,111657.2186990444,100893.83663118126
+5,Prevalence,118,Republic of Suriname,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1886078273303029,0.1983007056698519,0.1790742716516318
+5,Prevalence,118,Republic of Suriname,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18333.4212766725,19276.26659677241,17418.09903142874
+5,Prevalence,119,Republic of Trinidad and Tobago,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,328138.13516061,346095.69518188306,310698.51685461705
+5,Prevalence,119,Republic of Trinidad and Tobago,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2426860596407452,0.2561520938345185,0.2290529735178211
+5,Prevalence,119,Republic of Trinidad and Tobago,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,23553.927469897983,24842.93054803876,22302.10251977138
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,23279.32010948722,24358.3815217552,22146.130243424304
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.209840859551166,0.2196330886894151,0.1996574239310778
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,20406.98336410992,21352.90395738495,19413.61299777781
+5,Prevalence,116,Saint Lucia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,38803.80441745748,40622.95647809917,37043.95363510341
+5,Prevalence,116,Saint Lucia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2238503422855186,0.2340541597648064,0.2136115690129456
+5,Prevalence,116,Saint Lucia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,21859.77154040093,22884.5743668214,20868.37555165742
+5,Prevalence,115,Jamaica,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,406006.7397459576,427636.882038218,386873.3885614821
+5,Prevalence,115,Jamaica,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1487984208610188,0.1570012631737719,0.1416080265299574
+5,Prevalence,115,Jamaica,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14500.79172579704,15273.32616346595,13817.43178769304
+5,Prevalence,141,Arab Republic of Egypt,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,12277553.174322154,12980299.962065144,11618006.615409365
+5,Prevalence,141,Arab Republic of Egypt,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.122775800661951,0.12970793262533,0.1163557569114973
+5,Prevalence,141,Arab Republic of Egypt,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,11623.449907930759,12288.75690919658,10999.04158482088
+5,Prevalence,138,North Africa and Middle East,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,87763674.20158356,92222303.20045996,83615205.9961277
+5,Prevalence,138,North Africa and Middle East,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1470498415264554,0.154375397366931,0.1399132582855678
+5,Prevalence,138,North Africa and Middle East,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14087.265681816742,14802.93639473103,13421.38000286722
+5,Prevalence,140,Kingdom of Bahrain,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,287511.6064376672,303611.4112402485,272088.568844526
+5,Prevalence,140,Kingdom of Bahrain,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1936506574179105,0.2046000687421214,0.1834377034366091
+5,Prevalence,140,Kingdom of Bahrain,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18796.56385403617,19849.11617621469,17788.25634765547
+5,Prevalence,114,Republic of Haiti,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1506603.0953760175,1601176.0997225768,1423815.4100255952
+5,Prevalence,114,Republic of Haiti,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1191759682102224,0.1267858812230116,0.1125861742025495
+5,Prevalence,114,Republic of Haiti,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,11711.75209146531,12446.92619594672,11068.19251693225
+5,Prevalence,112,Grenada,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,19217.21565545371,20354.234408319207,18088.639981806416
+5,Prevalence,112,Grenada,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1925637129166159,0.2041465070674588,0.1814421016351673
+5,Prevalence,112,Grenada,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18725.392652385308,19833.31187347648,17625.70042819055
+5,Prevalence,137,North Africa and Middle East,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,87763674.20158356,92222303.20045996,83615205.9961277
+5,Prevalence,137,North Africa and Middle East,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1470498415264554,0.154375397366931,0.1399132582855678
+5,Prevalence,137,North Africa and Middle East,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14087.265681816742,14802.93639473103,13421.38000286722
+5,Prevalence,132,Republic of Panama,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,608572.5480528371,640250.369693601,577123.3758128476
+5,Prevalence,132,Republic of Panama,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1484140378423596,0.1560047689356886,0.1403825873909174
+5,Prevalence,132,Republic of Panama,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14179.22626552121,14917.292749263132,13446.48711966108
+5,Prevalence,111,Dominican Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1492463.854239638,1575267.316329281,1409328.6331661637
+5,Prevalence,111,Dominican Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1403980532582921,0.1480580135267665,0.1323948981053197
+5,Prevalence,111,Dominican Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13551.96099917029,14303.838028317381,12797.07151193436
+5,Prevalence,139,People's Democratic Republic of Algeria,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,6692881.78182782,7015003.64213418,6351514.126189696
+5,Prevalence,139,People's Democratic Republic of Algeria,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1600229481346519,0.1679486664317753,0.1516285546320114
+5,Prevalence,139,People's Democratic Republic of Algeria,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15142.96856916625,15871.78484966664,14370.60774637485
+5,Prevalence,134,Tropical Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,30020688.80508606,31687924.1142809,28467162.654919054
+5,Prevalence,134,Tropical Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1355064709893248,0.1429933317893769,0.1284731869357678
+5,Prevalence,134,Tropical Latin America,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13194.46414922883,13927.234694845789,12511.670185827319
+5,Prevalence,110,Commonwealth of Dominica,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,13101.91457346891,13829.618295301992,12392.111124268486
+5,Prevalence,110,Commonwealth of Dominica,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2009837395050757,0.2121751259863152,0.1896704575889398
+5,Prevalence,110,Commonwealth of Dominica,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,19532.69233655178,20617.57293404187,18474.497954737508
+5,Prevalence,113,Republic of Guyana,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,142267.52844480285,150310.5593122444,135278.43078537672
+5,Prevalence,113,Republic of Guyana,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1915903504705072,0.2026453636053379,0.1818785595896827
+5,Prevalence,113,Republic of Guyana,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18603.3868184067,19655.12094252524,17689.46859201137
+5,Prevalence,129,Republic of Honduras,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1128015.4175374466,1186796.798572732,1070523.1282803968
+5,Prevalence,129,Republic of Honduras,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1161940731953738,0.1225852964122386,0.1101529993411426
+5,Prevalence,129,Republic of Honduras,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,11157.25057861218,11738.65982831846,10588.591792919951
+5,Prevalence,133,Bolivarian Republic of Venezuela,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,3991251.6993738944,4202319.901247449,3795209.820713382
+5,Prevalence,133,Bolivarian Republic of Venezuela,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1552105669080724,0.1633134933147613,0.1471490423976052
+5,Prevalence,133,Bolivarian Republic of Venezuela,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14988.454944904239,15781.08504502547,14252.25360083005
+5,Prevalence,131,Republic of Nicaragua,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,897359.0481100143,942669.3151426452,859513.8894930806
+5,Prevalence,131,Republic of Nicaragua,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1399450731969574,0.1467785139674231,0.1342193199341239
+5,Prevalence,131,Republic of Nicaragua,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13455.724408855,14135.143051110641,12888.2436154854
+5,Prevalence,126,Republic of Costa Rica,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,805793.208941479,841641.5124797898,766829.631002658
+5,Prevalence,126,Republic of Costa Rica,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1765527846196078,0.1846478907549887,0.1680007080543314
+5,Prevalence,126,Republic of Costa Rica,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16971.58599935003,17726.62160858589,16150.93659886706
+5,Prevalence,130,United Mexican States,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,21035894.35863694,22142190.328142,19971342.083527416
+5,Prevalence,130,United Mexican States,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1707002819184615,0.179964479884396,0.1617705430343191
+5,Prevalence,130,United Mexican States,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16272.08035060026,17127.84320053781,15448.60786767806
+5,Prevalence,128,Republic of Guatemala,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1978957.431711031,2079113.14790838,1893765.6158709847
+5,Prevalence,128,Republic of Guatemala,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1310740993859393,0.1379544052174546,0.1251220062889838
+5,Prevalence,128,Republic of Guatemala,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,12550.965854609469,13186.174552883489,12010.66137177068
+5,Prevalence,157,Republic of Yemen,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,2605843.2063452746,2769423.2351794625,2453111.1052696803
+5,Prevalence,157,Republic of Yemen,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.0799016106055956,0.0851940042586993,0.0750242879518459
+5,Prevalence,157,Republic of Yemen,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,7745.46446033203,8231.68070568023,7291.491996466109
+5,Prevalence,127,Republic of El Salvador,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,786921.8351669163,827775.1457372357,749895.2704206198
+5,Prevalence,127,Republic of El Salvador,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1275803432698081,0.1342370795585121,0.1213367495197443
+5,Prevalence,127,Republic of El Salvador,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,12199.90582501805,12833.26802101353,11625.8709174304
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,2177994.1272841617,2300633.244143973,2067598.861767811
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1607296652615927,0.1701049739567725,0.1523808141346683
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15523.35284778203,16397.446244135263,14736.52581373864
+5,Prevalence,155,Republic of Turkey,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,13505846.73773433,14239627.732893968,12831718.30362846
+5,Prevalence,155,Republic of Turkey,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1679705316258017,0.1770322840292969,0.1594525692045955
+5,Prevalence,155,Republic of Turkey,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16152.99179975541,17030.59382114622,15346.734237416098
+5,Prevalence,156,United Arab Emirates,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1612539.0050097783,1734736.8467593305,1502951.2635952
+5,Prevalence,156,United Arab Emirates,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1715505891767298,0.184304035426509,0.1596891049534694
+5,Prevalence,156,United Arab Emirates,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16742.95250301056,18011.72966376565,15605.105701341809
+5,Prevalence,154,Republic of Tunisia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,2180311.9561396646,2313006.746859229,2056252.352767339
+5,Prevalence,154,Republic of Tunisia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1917932999586935,0.2036637557225847,0.1807646941122993
+5,Prevalence,154,Republic of Tunisia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18410.78834818446,19531.27741396477,17363.21573188256
+5,Prevalence,151,State of Qatar,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,476129.1568411497,513484.9178039213,441181.5069910471
+5,Prevalence,151,State of Qatar,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.166161168616863,0.1792886708105446,0.1538304061243099
+5,Prevalence,151,State of Qatar,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15993.2581690837,17248.04443998519,14819.36075401338
+5,Prevalence,152,Kingdom of Saudi Arabia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,5924719.184667966,6314968.808827357,5548061.924118684
+5,Prevalence,152,Kingdom of Saudi Arabia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1624988393127937,0.1729292582590786,0.1520939770475892
+5,Prevalence,152,Kingdom of Saudi Arabia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15713.68991716938,16748.71983051981,14714.71001401408
+5,Prevalence,150,Sultanate of Oman,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,574313.7663796601,614977.6505659209,537523.8196705584
+5,Prevalence,150,Sultanate of Oman,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1265087573901518,0.1354038137640682,0.1184385902772867
+5,Prevalence,150,Sultanate of Oman,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,12209.673131347,13074.170490160039,11427.53408099928
+5,Prevalence,149,Palestine,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,553722.0075351513,584974.7246396543,526382.2768238413
+5,Prevalence,149,Palestine,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1148971706486895,0.1214106495462822,0.1091599289757263
+5,Prevalence,149,Palestine,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,10782.05635342648,11390.60821236096,10249.6980342601
+5,Prevalence,147,State of Libya,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1147621.25938041,1214625.0037159482,1084559.7418762287
+5,Prevalence,147,State of Libya,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1721472591049284,0.182315141623292,0.1625930765671412
+5,Prevalence,147,State of Libya,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16703.44264171895,17678.67135166222,15785.5924085335
+5,Prevalence,148,Kingdom of Morocco,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,7226988.054676672,7650261.045851339,6827143.888896609
+5,Prevalence,148,Kingdom of Morocco,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2030267931159158,0.2151228265615664,0.1916328654465197
+5,Prevalence,148,Kingdom of Morocco,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,19439.60903007193,20578.15546174896,18364.0829330432
+5,Prevalence,146,Lebanese Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1051693.8992595903,1101498.7653979713,1001414.6465249504
+5,Prevalence,146,Lebanese Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1982647483194988,0.2078427680803557,0.1884552569249032
+5,Prevalence,146,Lebanese Republic,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18982.18731959446,19881.12312128699,18074.68924019122
+5,Prevalence,144,Hashemite Kingdom of Jordan,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1883504.7591964265,1987216.8209115465,1789848.404325929
+5,Prevalence,144,Hashemite Kingdom of Jordan,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1613403372385388,0.1701738967881255,0.1531794453835673
+5,Prevalence,144,Hashemite Kingdom of Jordan,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15282.51232231559,16124.01848437609,14522.596856011069
+5,Prevalence,167,Central Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,10032933.853878956,10571277.288176125,9528640.828125902
+5,Prevalence,167,Central Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.0743336003854016,0.078256399304148,0.0706127228243874
+5,Prevalence,167,Central Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,7327.14143767557,7720.2984685688,6958.851725060999
+5,Prevalence,145,State of Kuwait,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,936344.4738449018,998222.7557056168,876715.7091953957
+5,Prevalence,145,State of Kuwait,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2105872396718277,0.2247509954631716,0.1968483159031079
+5,Prevalence,145,State of Kuwait,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,20136.085867138958,21466.77818354899,18853.76941344807
+5,Prevalence,143,Republic of Iraq,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,6686234.149389484,7074675.479478214,6336793.338441823
+5,Prevalence,143,Republic of Iraq,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1702461985269744,0.1795957927319006,0.1615061670607043
+5,Prevalence,143,Republic of Iraq,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16219.14431863393,17161.40656241226,15371.48765317027
+5,Prevalence,166,Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,71774230.36928414,75943182.34893635,68033874.98963657
+5,Prevalence,166,Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.0647199490340667,0.0684351447773382,0.0613123607358878
+5,Prevalence,166,Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,6334.00053660164,6701.90617544056,6003.91809810144
+5,Prevalence,142,Islamic Republic of Iran,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,12492223.229834609,13219082.3988697,11832060.074898817
+5,Prevalence,142,Islamic Republic of Iran,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1514988928217931,0.160274054097024,0.1433826754199283
+5,Prevalence,142,Islamic Republic of Iran,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14635.457318473871,15487.02041891129,13862.032964815422
+5,Prevalence,165,Islamic Republic of Pakistan,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,24308174.80328373,25832391.49179753,22910214.30821568
+5,Prevalence,165,Islamic Republic of Pakistan,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1075928520626884,0.1145905597299072,0.1013772290720627
+5,Prevalence,165,Islamic Republic of Pakistan,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,10319.593481078899,10966.67195282057,9726.11477984126
+5,Prevalence,160,Islamic Republic of Afghanistan,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,3227288.729900689,3415495.84872186,3060997.129986289
+5,Prevalence,160,Islamic Republic of Afghanistan,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1075771183783933,0.1141185421101873,0.1019583586674847
+5,Prevalence,160,Islamic Republic of Afghanistan,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,10336.52070616251,10939.319818221551,9803.91370702707
+5,Prevalence,163,Republic of India,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,188067926.8586761,199441976.94062865,177240615.71620348
+5,Prevalence,163,Republic of India,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.135605859163426,0.1440321167359233,0.1276964960932503
+5,Prevalence,163,Republic of India,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13295.764934803488,14099.87172096464,12530.310738381819
+5,Prevalence,164,Federal Democratic Republic of Nepal,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,4188297.0319617135,4432663.960517692,3988029.952084269
+5,Prevalence,164,Federal Democratic Republic of Nepal,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1392824481192627,0.1471981346062545,0.1325950269438875
+5,Prevalence,164,Federal Democratic Republic of Nepal,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13454.29604151252,14239.28931549896,12810.967127761069
+5,Prevalence,162,Kingdom of Bhutan,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,91512.2250801603,96047.62550078152,86723.07577734883
+5,Prevalence,162,Kingdom of Bhutan,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1255963380935452,0.132045644770943,0.1190272225867781
+5,Prevalence,162,Kingdom of Bhutan,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,12090.396830712689,12689.604104095659,11457.66480499916
+5,Prevalence,186,Republic of Seychelles,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,22279.647844836483,23416.760147773755,21145.37227452249
+5,Prevalence,186,Republic of Seychelles,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2197426522195629,0.2311881871774816,0.2087339649088145
+5,Prevalence,186,Republic of Seychelles,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,21131.87114027368,22210.40302843632,20056.02984527804
+5,Prevalence,161,People's Republic of Bangladesh,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,21643093.386770774,22748692.583884317,20616932.45026024
+5,Prevalence,161,People's Republic of Bangladesh,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1356312513849308,0.1424885877698406,0.1291761239372774
+5,Prevalence,161,People's Republic of Bangladesh,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13146.01792819715,13817.559034032758,12522.72763288159
+5,Prevalence,158,South Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,238299004.30577245,252188405.50874063,225106375.8212664
+5,Prevalence,158,South Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1321553159213333,0.1400517431201584,0.1248088255403482
+5,Prevalence,158,South Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,12904.943878193231,13657.116316127629,12190.50476127627
+5,Prevalence,183,Republic of Mauritius,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,327407.9940240956,341953.1232946824,312268.7265641184
+5,Prevalence,183,Republic of Mauritius,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2634403357988078,0.2751580487757073,0.2516319410582878
+5,Prevalence,183,Republic of Mauritius,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,25740.3595295306,26883.877292266872,24550.13145157825
+5,Prevalence,159,South Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,238299004.30577245,252188405.50874063,225106375.8212664
+5,Prevalence,159,South Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1321553159213333,0.1400517431201584,0.1248088255403482
+5,Prevalence,159,South Asia,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,12904.943878193231,13657.116316127629,12190.50476127627
+5,Prevalence,374,Republic of Niue,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,471.428675788321,496.6180876447146,447.18441727253065
+5,Prevalence,374,Republic of Niue,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2911140936151242,0.3071176935766392,0.2757463121195443
+5,Prevalence,374,Republic of Niue,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,28201.018362753188,29707.85726075031,26750.718848299948
+5,Prevalence,369,Republic of Nauru,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1726.523750193454,1824.0953415839003,1640.2693162980215
+5,Prevalence,369,Republic of Nauru,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1626529890469312,0.1717164567418066,0.1545774009823326
+5,Prevalence,369,Republic of Nauru,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15660.88254103071,16545.931027584098,14878.48927379177
+5,Prevalence,367,Principality of Monaco,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,6527.906316453432,6874.868580820903,6154.240125821391
+5,Prevalence,367,Principality of Monaco,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1795992586643735,0.188989484857981,0.1692131814829046
+5,Prevalence,367,Principality of Monaco,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,17240.65360520604,18157.005023877628,16253.775264071379
+5,Prevalence,349,Greenland,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,6533.921525593957,6897.736400901474,6196.342975879403
+5,Prevalence,349,Greenland,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1241701305903857,0.1310088305373677,0.1176185011854768
+5,Prevalence,349,Greenland,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,11646.397193571389,12294.87950640049,11044.67985451166
+5,Prevalence,351,Guam,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,29148.3424473295,30727.04314281883,27636.159994543304
+5,Prevalence,351,Guam,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.189973102020993,0.2001938912919393,0.1797185630834387
+5,Prevalence,351,Guam,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18309.67483662508,19301.34345212165,17359.789982822622
+5,Prevalence,320,Cook Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,5412.808075956081,5667.39228052131,5136.962370882822
+5,Prevalence,320,Cook Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.3158030023407115,0.3306481428525903,0.3001010866653159
+5,Prevalence,320,Cook Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,30498.96311005026,31933.44113965691,28944.68520752015
+5,Prevalence,305,Bermuda,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,12050.204683807564,12696.948721203276,11448.962127825684
+5,Prevalence,305,Bermuda,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1942799287799469,0.2043482438222759,0.1847237558736702
+5,Prevalence,305,Bermuda,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18964.50093879191,19982.340737051123,18018.270952119412
+5,Prevalence,298,American Samoa,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,13330.840964878453,14094.342911306238,12568.762261443806
+5,Prevalence,298,American Samoa,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2785686748531983,0.2946094982361853,0.2622144908515088
+5,Prevalence,298,American Samoa,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,26791.00734213884,28325.418134854408,25259.456842602052
+5,Prevalence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,20843466.778271902,22262325.657809086,19579450.218164824
+5,Prevalence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.050087360371422,0.0535275864198459,0.0470199178626138
+5,Prevalence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,4891.70970976542,5224.69873849332,4595.0603017684
+5,Prevalence,479,WHO region,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1074964430.691519,1126638608.6500192,1025384886.6985408
+5,Prevalence,479,WHO region,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1415687375014163,0.1484760923014397,0.1349651883019963
+5,Prevalence,479,WHO region,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13680.356322424539,14337.97916738313,13049.39048880067
+5,Prevalence,478,World Bank Regions,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1079703244.967818,1131476783.6675143,1029999039.486468
+5,Prevalence,478,World Bank Regions,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1417392001430878,0.1486513929316689,0.1351332781472324
+5,Prevalence,478,World Bank Regions,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13696.74129527337,14353.52246993003,13066.210964890372
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,25855.16959232797,27150.37770585289,24354.973191279743
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.3085259129042712,0.3242716421290449,0.2910953796973615
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,30098.48403648147,31606.25990272133,28352.077490305273
+5,Prevalence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,8589549.607689954,9071478.936631387,8157285.734926256
+5,Prevalence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1102203433617989,0.1164811398527521,0.1045369419435102
+5,Prevalence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,10696.31609191675,11296.448656691491,10158.030474000621
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,863328.6814878394,916832.2410546676,822829.6227970722
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2683519563693968,0.2854555243998327,0.2556206233751726
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,26206.37960364361,27830.482476883088,24977.02891902206
+5,Prevalence,416,Tuvalu,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1969.110429697108,2067.9210724706863,1873.431479373462
+5,Prevalence,416,Tuvalu,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1641463833056496,0.1727437261574866,0.1562540996276107
+5,Prevalence,416,Tuvalu,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15922.183070950161,16721.16372732763,15148.52520996172
+5,Prevalence,396,Republic of San Marino,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,5365.7938794488455,5660.825759013282,5063.579071666332
+5,Prevalence,396,Republic of San Marino,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1705373194810876,0.1802343211804603,0.1609968104254929
+5,Prevalence,396,Republic of San Marino,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16389.07068115908,17290.20449956687,15465.997608111931
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,11048.228077378802,11724.705702699666,10370.534838633306
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1934520241136091,0.2053721427131608,0.1814748754626873
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18839.071262619862,19992.57842247671,17683.49127915967
+5,Prevalence,380,Republic of Palau,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,5290.529656171616,5547.586676914349,5016.757263439033
+5,Prevalence,380,Republic of Palau,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.3000315517229008,0.3141988602612124,0.2846169672291169
+5,Prevalence,380,Republic of Palau,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,29234.54068251199,30654.992776918483,27721.722368800638
+5,Prevalence,413,Tokelau,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,322.536957235318,338.9720465975899,306.78461983827447
+5,Prevalence,413,Tokelau,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2437597261447858,0.2561952283885095,0.2314408477733875
+5,Prevalence,413,Tokelau,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,23526.25563766874,24725.05194640503,22377.26012512262
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,9190.210595279004,9700.1048793821,8688.070130028544
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1958984617022905,0.2069538622160708,0.1851424811120589
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18951.95076032639,20003.44911992416,17916.4422403059
+5,Prevalence,44534,Commonwealth,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,311110056.82273054,328627363.3101846,294364849.858889
+5,Prevalence,44534,Commonwealth,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1208843423981868,0.1277414961977672,0.1143343841681519
+5,Prevalence,44534,Commonwealth,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,11782.92151408802,12446.3685578379,11148.71681685919
+5,Prevalence,522,Republic of Sudan,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,4160552.3486302886,4406763.532087375,3914734.451623834
+5,Prevalence,522,Republic of Sudan,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1002056518485285,0.1059717688782057,0.0942152927255601
+5,Prevalence,522,Republic of Sudan,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,9582.32100999777,10149.379034616519,9016.1687778563
+5,Prevalence,4743,European Union,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,72084598.39318591,75280529.94876221,69184163.06759031
+5,Prevalence,4743,European Union,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1683862259522212,0.1760680746834543,0.1617151606636746
+5,Prevalence,4743,European Union,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16143.455389011679,16859.189119154213,15493.8984887697
+5,Prevalence,44642,Nordic Region,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,4426148.939475884,4635244.762832122,4218322.27198297
+5,Prevalence,44642,Nordic Region,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1688158452158867,0.1770292009849516,0.1608988295507245
+5,Prevalence,44642,Nordic Region,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16045.037821562242,16803.02189303338,15291.65451118321
+5,Prevalence,4745,,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,59737759.92496451,62764997.34777449,56768002.58517211
+5,Prevalence,4745,,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1385580327142178,0.1456728529507972,0.1317277398976357
+5,Prevalence,4745,,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13268.138124837638,13940.506896498511,12608.536046836898
+5,Prevalence,44639,Middle SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,350776375.3677401,369025166.3626069,333438798.5734402
+5,Prevalence,44639,Middle SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1484710393932707,0.1561405478043976,0.141095088434176
+5,Prevalence,44639,Middle SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,14325.91722800431,15071.20878029183,13617.84020933702
+5,Prevalence,44636,Low-middle SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,228201963.92212465,240812123.78841323,216407942.5732641
+5,Prevalence,44636,Low-middle SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.122305918022698,0.1289826833719853,0.1159544814684939
+5,Prevalence,44636,Low-middle SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,11878.63723959003,12535.03612420259,11264.72095775249
+5,Prevalence,44635,High SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,210163995.5317255,218329794.6556567,202131358.6474988
+5,Prevalence,44635,High SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.2012141627976073,0.20916511746808,0.1934975915538425
+5,Prevalence,44635,High SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,19209.76468304793,19956.14885424189,18475.552031922958
+5,Prevalence,44587,African Union,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,105791303.50618964,111403220.02971196,100540529.44971424
+5,Prevalence,44587,African Union,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.078541312074861,0.082753136084868,0.0746932357834209
+5,Prevalence,44587,African Union,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,7647.787821167849,8053.48040098838,7268.20268940446
+5,Prevalence,44634,High-middle SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,209673764.71053064,220305039.30984685,199851375.8959677
+5,Prevalence,44634,High-middle SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.167305195260563,0.1758358960317927,0.159409598453933
+5,Prevalence,44634,High-middle SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16078.89070505395,16894.15294148022,15325.658099010281
+5,Prevalence,44637,Low SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,81288240.51722245,86015658.91256179,77001011.98082086
+5,Prevalence,44637,Low SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.0743360745034447,0.0786995100500742,0.0703597033847803
+5,Prevalence,44637,Low SDI,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,7274.8798135837,7697.9594673662405,6891.19489018964
+5,Prevalence,44590,Four World Regions,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1079151436.5995712,1130936309.7514377,1029462162.2110628
+5,Prevalence,44590,Four World Regions,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1416942539203072,0.1486047837255341,0.13508925126057
+5,Prevalence,44590,Four World Regions,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13692.35365800275,14349.40397854387,13061.89245037016
+5,Prevalence,44591,World Bank Income Levels,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1080098133.2756343,1131880335.969479,1030388435.810544
+5,Prevalence,44591,World Bank Income Levels,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1417517185055565,0.1486636627602337,0.1351461452058716
+5,Prevalence,44591,World Bank Income Levels,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13697.968770790001,14354.678539588362,13067.542828457148
+5,Prevalence,44584,OECD Countries,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,254870203.4867839,264704346.2417988,245136358.7379386
+5,Prevalence,44584,OECD Countries,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1944778937482295,0.2019980997304624,0.1870716510112736
+5,Prevalence,44584,OECD Countries,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,18566.248405411483,19282.62534844378,17857.17776053265
+5,Prevalence,44586,G20,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,760232409.0826428,797846101.0710361,724574963.5468276
+5,Prevalence,44586,G20,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1599539597485898,0.1678698347750588,0.1524681364655464
+5,Prevalence,44586,G20,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,15439.812123913549,16203.72106892724,14715.63323688609
+5,Prevalence,95471,Health System Grouping Levels,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,1080104340.0493424,1131886643.5534208,1030394538.6097533
+5,Prevalence,95471,Health System Grouping Levels,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1417521594771965,0.1486641144619294,0.1351465864843263
+5,Prevalence,95471,Health System Grouping Levels,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13698.0113693285,14354.720685112272,13067.58577057991
+5,Prevalence,94216,Association of Southeast Asian Nations,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,94848016.37359998,100098881.6359228,89610016.43986976
+5,Prevalence,94216,Association of Southeast Asian Nations,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.144792919243133,0.1527671746019219,0.1368028891331698
+5,Prevalence,94216,Association of Southeast Asian Nations,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,13990.48145327601,14765.00617055438,13217.85442609115
+5,Prevalence,94366,Sahel Region,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,24664761.916896947,26081892.72502234,23343854.21654436
+5,Prevalence,94366,Sahel Region,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.0646391508187053,0.0683494583550503,0.0611453437645943
+5,Prevalence,94366,Sahel Region,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,6328.21748937919,6691.80956437804,5989.31329726126
+5,Prevalence,94215,Organization of Islamic Cooperation,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,222372760.16126588,233613570.3898658,211416604.85757145
+5,Prevalence,94215,Organization of Islamic Cooperation,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1166097214271953,0.1226376393746301,0.1108349120568704
+5,Prevalence,94215,Organization of Islamic Cooperation,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,11268.85393707852,11838.48777401362,10713.64513479651
+5,Prevalence,94217,Gulf Cooperation Council,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2021,9811557.193181118,10401051.238708915,9230809.966766829
+5,Prevalence,94217,Gulf Cooperation Council,3,Both,22,All ages,974,Diabetes and kidney diseases,2,Percent,2021,0.1657465488566454,0.1755641188273551,0.1558618001641869
+5,Prevalence,94217,Gulf Cooperation Council,3,Both,22,All ages,974,Diabetes and kidney diseases,3,Rate,2021,16033.046212230101,16996.337266615443,15084.048317665922
