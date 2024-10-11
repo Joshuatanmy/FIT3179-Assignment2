@@ -1,16 +1,16 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title" : "Prevelance of obesity globally in 2021",
+  "title" : "Prevelance of Diabetes in 2021 (Australia)",
   "width": 600,
-  "height": 200,
-  "projection": {"type": "equalEarth"},
+  "height": 400,
+  "projection": {"type": "mercator"},
   "layer":[
     {
     "data": {
-      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/main/ne_50m_admin_0_countries.topojson",
+      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Aus_map.json",
       "format":{
         "type": "topojson",
-        "feature": "ne_50m_admin_0_countries"
+        "feature": "ne_50m_admin_1_states_provinces"
       }
     },
     "mark": {
@@ -18,55 +18,13 @@
       "fill":"lightgrey", 
       "stroke":"white"
     }
-  },
-  {
-    "data": {
-      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/main/ne_50m_admin_0_countries.topojson",
-      "format":{
-        "type": "topojson",
-        "feature": "ne_50m_admin_0_countries"
-      }
     },
-    "transform": [
-      {
-        "lookup": "properties.NAME",
-        "from": {
-          "data":{
-            "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/main/IHME-GBD_2021_DATA-ac02c9a8-1.csv"
-          },
-          "key": "location_name",
-          "fields": ["val","upper","lower"]
-        }
-      }
-    ],
-    "mark": {
-      "type": "geoshape",
-      "stroke":"white"
-    },
-    "encoding": {
-      "color":{
-        "field":"val",
-        "type": "quantitative",
-        "scale": {
-              "domain":[1000,30000]
-        },
-        "title": "obesity absolute value"
-      },
-      "tooltip":[
-        {
-          "field": "val", "type": "quantitative", "format": ",", "title": "absolute value of number of diabetic persons"
-        }
-      ]
-    }
-
-
-  },
     {
     "data": {
-      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/main/ne_50m.topojson",
+      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Aus_map.json",
       "format":{
         "type": "topojson",
-        "feature": "ne_50m_graticules_30"
+        "feature": "ne_50m_graticules_5"
       }
     },
     "mark": {
@@ -75,6 +33,62 @@
       "stroke":"black",
       "opacity":0.2
     }
-  }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Aus_map.json",
+        "format":{
+          "type": "topojson",
+          "feature": "ne_50m_admin_1_states_provinces"
+        }
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "geoshape",
+            "stroke":"white",
+            "color": "darkblue"
+          },
+          "encoding": {
+            "color":{
+              "field":"Diabetes",
+              "type": "quantitative",
+              "scale": {
+                    "domain":[4,8]
+              },
+              "title": "Diabetes percentage"
+            },
+            "tooltip":[
+              {
+                "field": "Diabetes", "type": "quantitative", "format": "", "title": "% proportion of population affected"
+              },
+              {
+                "field": "State", "type": "nominal", "format": ",", "title": "State"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "dy": -10
+          }
+        }
+      ],
+      
+      "transform": [
+        {
+          "lookup": "properties.name",
+          "from": {
+            "data":{
+              "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Proportion%20of%20people%20with%20long-term%20health%20conditions%20(%25).csv"
+            },
+            "key": "State",
+            "fields": ["Diabetes", "State"]
+          }
+        }
+      ]     
+    }
+
   ]
 }
