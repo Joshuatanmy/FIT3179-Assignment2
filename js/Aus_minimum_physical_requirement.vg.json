@@ -1,0 +1,209 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Physical guidelines indicator Australia (by year)",
+    "params": [
+          {
+            "name": "met_check",
+            "value":"TRUE",
+            "bind": {
+              "input": "select",
+              "options": [
+                "TRUE",
+                "FALSE"
+              ],
+              "labels": [
+                "Guideline Met",
+                "Guideline NOT Met"
+              ],
+              "name": "Was Guideline met"
+            }
+          }
+        ],
+    "vconcat": [
+      {
+        "width": 350,
+        "data": {
+        "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Proportion%20of%20adults%20who%20did%20not%20meet%20the%20physical%20activity%20component%20of%20the%20guidelines.csv",
+        "format": {
+          "type": "csv"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum['met'] == met_check" 
+        }
+      ],
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "nominal",
+          "title": "Year",
+          "axis": {
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "Per cent",
+          "type": "quantitative",
+          "title": "% of population",
+          "axis": {
+            "labelExpr": "datum.label + '%'"
+          }
+        },
+        "color": {
+          "field": "gender",
+          "type": "nominal",
+          "title": "Gender"
+        },
+        "tooltip": [
+            {
+              "field": "Per cent", "type": "quantitative", "title": "% of People that met physical activity guidelines"
+            }
+          ]
+      }
+      },
+      {
+        "width": 350,
+        "data": {
+          "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Proportion%20of%20people%20aged%2015%20and%20over%20who%20met%20or%20did%20not%20meet%20the%20physical%20activity%20guidelines%20(including%20exercise%20at%20work)%2C%20by%20sex(a)%2C%202022.csv",
+          "format":{
+            "type": "csv"
+          }
+        },
+        "encoding": {
+            "x": {
+              "field": "Age group (years)",
+              "type": "ordinal",
+              "title": "Age groups",
+              "axis": {
+                "labelAngle": 0
+              }
+            },
+            "y": {
+              "field": "Per cent",
+              "type": "quantitative",
+              "title": "% of population" ,
+              "axis": {
+                "labelExpr": "datum.label + '%'"
+              }
+            },
+            "tooltip": [
+              {
+                "field": "Per cent", "type": "quantitative", "format": ",", "title": "% of People that met physical activity guidelines"
+              }
+            ]
+            
+        },
+        "transform": [
+          {
+            "filter": "datum['Met'] == met_check"
+          },
+          {
+            "calculate": "datum['Per cent'] + '%'",
+            "as": "percentageLabel"
+          },
+          {
+            "calculate": "parseFloat(datum['Per cent'])",  
+            "as": "percentageNum"  
+          },
+          {
+            "joinaggregate": [
+              {"op": "max", "field": "percentageNum", "as": "maxPercentage"},
+              {"op": "min", "field": "percentageNum", "as": "minPercentage"}
+            ]
+          },
+          {
+            "calculate": "datum['Per cent'] == datum.maxPercentage || datum['Per cent'] == datum.minPercentage",
+            "as": "isExtremeValue"
+          }
+        ],
+        
+        "layer": [
+          {
+            "mark":{
+              "type": "bar"
+            },
+            
+            "encoding": {
+              "color": {
+                "field": "Gender",
+                "type": "nominal"
+              },
+              "xOffset": {"field": "Gender"}
+            }   
+          },
+          {
+            "mark":{
+              "type": "text",
+              "align": "center",
+              "baseline": "top",
+              "dy": -11,
+              "fontSize": 12,
+              "fontStyle": "italic"
+            },
+            "transform": [
+              {
+                "filter": "datum.isExtremeValue"
+              }
+            ],
+            "encoding": {
+              "text":{
+                "field": "percentageLabel",
+                "type": "nominal"        
+              },
+              "x":{"field": "Age group (years)", "type": "nominal"},
+              "y": {"field":"Per cent", "type": "quantitative"}
+            }
+          },
+          {
+            "mark": {
+              "type": "text",
+              "align": "left",  
+              "dx": 10,        
+              "dy": 10,
+              "fontSize": 10,
+              "color": "grey",
+              "fontStyle": "italic",
+              "font": "Calibri"            
+            },
+            "transform": [
+              {
+                "filter": "datum['Per cent'] == datum.maxPercentage && met_check == 'TRUE'"
+              }
+            ],
+            "encoding": {
+              "text": {
+                "value": "Men aged 18-24 are most likely to meet minimum physical activity"
+              }
+            }
+          },
+          {
+            "mark": {
+              "type": "text",
+              "align": "left",  
+              "dx": 10,        
+              "dy": 10,
+              "fontSize": 10,
+              "color": "grey",
+              "fontStyle": "italic",
+              "font": "Calibri"
+            },
+            "transform": [
+              {
+                "filter": "datum['Per cent'] == datum.maxPercentage && met_check == 'FALSE'"
+              }
+            ],
+            "encoding": {
+              "text": {
+                "value": "Women aged 15-17 are most likely to not meet minimum physical activity"
+              }
+            }
+          }
+  
+        ]
+      }
+    ]
+    
+    
+  }

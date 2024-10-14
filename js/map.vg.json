@@ -1,0 +1,179 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title" : "Health Tracker Australia (2021)",
+  "width": 865,
+  "height": 500,
+  "projection": {
+    "type": "mercator",
+    "center": [133.7751, -25.2744]
+  },
+  "params": [
+    {
+      "name": "data_selection",
+      "value": "Measured Body Mass Index: Overweight/Obese",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Measured Body Mass Index: Overweight/Obese",
+          "Diabetes",
+          "High measured blood pressure"
+        ],
+        "labels":[
+          "Obesity rate",
+          "Diabetes rate",
+          "High measured blood pressure"
+        ],
+        "name": "Data Selection: "
+      }
+    }
+  ],
+  "layer":[
+    {
+    "data": {
+      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Aus.topojson",
+      "format":{
+        "type": "topojson",
+        "feature": "ne_50m_admin_1_states_provinces"
+      }
+    },
+    "mark": {
+      "type": "geoshape", 
+      "fill":"lightgrey", 
+      "stroke":"white"
+    }
+    },
+    {
+    "data": {
+      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Aus.topojson",
+      "format":{
+        "type": "topojson",
+        "feature": "ne_50m_graticules_10"
+      }
+    },
+    "mark": {
+      "type": "geoshape", 
+      "fill":"", 
+      "stroke":"black",
+      "opacity":0.1
+    }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Aus_map.json",
+        "format":{
+          "type": "topojson",
+          "feature": "ne_50m_admin_1_states_provinces"
+        }
+      },
+      "transform": [
+        {
+          "lookup": "properties.name",
+          "from": {
+            "data":{
+              "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Proportion%20of%20people%20with%20long-term%20health%20conditions%20(%25).csv"
+            },
+            "key": "State",
+            "fields": ["Diabetes", "State"]
+          }       
+        },
+        {
+          "lookup": "properties.name",
+          "from": {
+            "data":{
+              "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Proportion%20of%20adults%20aged%2018%20years%20and%20over%20by%20health%20risk%20factors%20(%25).csv"
+            },
+            "key": "State",
+            "fields": ["Measured Body Mass Index: Overweight/Obese", "High measured blood pressure"]
+          }       
+        },
+        {
+          "calculate": "datum[data_selection]",
+          "as": "selected_data"
+        },
+        {
+          "calculate": "data_selection",
+          "as": "legend_title"
+        },
+        {
+          "calculate": "datum.Diabetes + '%'", 
+          "as": "diabetes_tooltip"
+        },
+        {
+          "calculate": "datum['Measured Body Mass Index: Overweight/Obese'] + '%'", 
+          "as": "obesity_tooltip"
+        },
+        {
+          "calculate": "datum['High measured blood pressure'] + '%'", 
+          "as": "BP_tooltip"
+        }
+      ],
+      "encoding": {
+        "tooltip":[
+          {
+            "field": "State", "type": "nominal", "title": "State"
+          },
+          {
+            "field": "diabetes_tooltip", "type": "nominal", "title": "proportion of Diabetic individuals"
+          },
+          {
+            "field": "obesity_tooltip", "type": "nominal", "title": "proportion of Obese individuals"
+          },
+          {
+            "field": "BP_tooltip", "type": "nominal", "title": "proportion of individuals with High Blood Pressure"
+          }
+        ]
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "geoshape",
+            "stroke":"white",
+            "color": "darkblue"
+          },
+          "encoding": {
+            "color":{
+              "field": "selected_data",
+              "type": "quantitative",
+              "title": "Proportion of population (%)",
+              "legend": {
+                "format" : ".2f",
+                "labelExpr": "datum.label + '%'"
+              }
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle",
+            "fontSize": 12,
+            "fontWeight": "bold",
+            "color": "#c07cd4"
+          },
+          "encoding": {
+            "text": {
+              "field": "properties.abbrev", 
+              "type": "nominal"
+            },
+            "longitude": {
+              "field": "properties.longitude",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "properties.latitude",  
+              "type": "quantitative"
+            }
+          },
+          "transform": [
+            {
+              "filter": "datum.Diabetes != null"
+            }
+          ]
+        }
+      ]
+      
+    }
+
+  ]
+}

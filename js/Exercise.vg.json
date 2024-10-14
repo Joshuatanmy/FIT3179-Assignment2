@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 600,
+  "width": "container",
   "height": 300,
-  "title": "Exercise data",
+  "title": "Exercise data (use legend to filter values)",
   "data": {
       "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/main/gym_members_exercise_tracking.csv",
       "format":{

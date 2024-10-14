@@ -1,0 +1,56 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Diseases with Obesity as risk factors",
+  "width": "container",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-Assignment2/refs/heads/main/data/Obesity_riskfactor_burden.csv",
+    "format":{
+      "type": "csv"
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum['Risk factor'] == 'Overweight (including obesity)' && datum['Year'] == 2018 && datum['Age group'] != 'Under 15' && (datum['Linked disease'] == 'Coronary heart disease' || datum['Linked disease'] == 'Type 2 diabetes mellitus')"
+    }
+  ],
+  "mark": {"type": "bar"},
+  "encoding": {
+    "x":{
+      "field": "Age group",
+      "type": "ordinal",
+      "title": "Age groups",
+      "axis": {
+        "labelAngle": 0
+
+      }
+    },
+    "xOffset": {
+      "field": "Sex",
+      "type": "nominal",
+      "title": "Gender"
+      
+    },
+    "y": {
+      "field": "Attributable DALY",
+      "type": "quantitative",
+      "title": "population" 
+    },
+    "color": {
+      "field": "Linked disease",
+      "type": "nominal",
+      "title": "Diseases linked to Obesity",
+      "scale": {
+        "domain": [
+          "Coronary heart disease",
+          "Type 2 diabetes mellitus"
+        ],
+        "range": [
+          "#4940ff",
+          "#9c2549"
+          
+        ]
+      }
+    }
+
+  }
+}

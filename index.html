@@ -14,7 +14,6 @@
 
 <!-- CSS file -->
 <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="css/layout.css" media="all">
 
 <!-- Import pure.css -->
 <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
@@ -29,35 +28,72 @@ integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mH
 <title>Assignment2</title>
 </head>
 
-<body>
+<body>  
+  <br>
+  <div class="page", style="background-color: #567197; padding-top: 10px; padding-bottom: 0px;">
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1 style="text-align: center; color: #fff9f9; font-size: 60px;"> Importance of Exercise</h1>
+        <h3 style="text-align: center; color: #fff9f9; font-family: 'Courier New';"> How exercise can reduce the risk of illnesses</h3>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+  </div>
 
-
-
-
-
-<div class="page"></div>
+  <div class="page">
 
     <!-- pure grid group -->
     <div class="pure-g">
       <div class="pure-u-1-1">
-        <h1> Heart Disease, Obesity and Exercise</h1>
+        <div id="map" class="vis-container"></div>
       </div>
+      <div class="pure-u-1-1">
+        <div class="description description-center">
+          <h2>The prevelance of Obesity in Australia</h2>
+          <p>The global obesity epidemic is well established, with increases in obesity prevalence for most countries since the 1980s. Obesity contributes directly to incident cardiovascular risk factors, including dyslipidemia, type 2 diabetes, hypertension, and sleep disorders. </p>
+        </div>
+      </div>
+      
     </div>
     <!-- end pure grid group -->
+    
 
     <!-- pure grid group -->
     <div class="pure-g">
       <div class="pure-u-1-2">
-        <div class="description description-left">
-          <h2>The prevelance of Diabetes in Australia</h2>
-          <p>The global obesity epidemic is well established, with increases in obesity prevalence for most countries since the 1980s. Obesity contributes directly to incident cardiovascular risk factors, including dyslipidemia, type 2 diabetes, hypertension, and sleep disorders. </p>
-        </div>
+        <div id="risk" class="vis-container"></div>
       </div>
       <div class="pure-u-1-2">
-        <div id="map" class="vis-container"></div>
+        <div class="description description-left">
+          <p>Overweight (including obesity) contributed to disease burden across all age groups, however asthma was the only disease linked to overweight (including obesity) in children aged less than 15 years.
+
+            In males aged 35-84 years, the most burden due to overweight (including obesity) was from coronary heart disease </p>
+        </div>
       </div>
     </div>
     <!-- end pure grid group -->
+
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="graphs" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <h2>Australian Physical guideline indicator</h2>
+          <p style="display: inline;">In 2022, based on self-reported data from the ABS 2022 NHS, 57% of adults aged 65 and over were insufficiently physically active. This was higher in <p style="color: palevioletred;display: inline;">women</p> (60%) than <p style="color: #3b588f; display: inline;">men</p> (53%) 
+          </p>
+          <p>For people aged 18-64, 'insufficient physical activity' is defined as not completing 150 minutes of moderate to vigorous activity across 5 or more days a week.
+              In 2022, it is estimated that 78% of adults aged 18-64 were insufficiently physically active and also did not meet the muscle-strengthening component of the physical activity guidelines.
+              <br><br>There has been a large decrease in the proportion of adults aged 18 and over who did not meet the physical activity guidelines to 46% in 2022, from 65% in 2017-18. This followed from the slight decreasing trends observed since 2007-08.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
 
     <!-- pure grid group -->
     <div class="pure-g">
@@ -66,17 +102,19 @@ integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mH
           </div>
         <div class="pure-u-1-2">
           <div class="description description-left">
-            <h2>Burning calories is a product of how long you exercise</h2>
+            <h2>Analysing the effectiveness of workouts</h2>
             <p> 
                 It's been established that obesity is a link to diabetes, so to reduce the risk of diabetes, it makes sense to lose fat.
                 A common method of doing so is to burn more calories than you eat. The visualisation demonstrates the correlation between the duration
-                you spend in the gym, and the amount of calories you burn as a result.
+                you spend in the gym, and the amount of calories you burn as a result. (click the workout types on the legend to filter them)
             </p>
-            <br>
             <p> 
-                The type of exercise can also affect the number of calories you burn while exercising, so it's worth it to investigate which exercise might 
-                be more suitable for certain people. And the data also reveals an interesting relationship between the exercise duration of an individual And
-                how frequently they will exercise.
+                The type of exercise can also affect the number of calories you burn while exercising. Yoga seems to be the best at burning calories for a shorter duration of workout, but as you reach a workout length of 1.4 hours, 
+                strength training seems to become the better alternative.
+            </p>
+            <p>
+              The workout frequency also reveals that individuals who work out more frequently tend to spend a longer time in the gym for each session, which might
+              encourage us to continue to be consistent when trying to lose weight.
             </p>
           </div>
         </div>
@@ -93,17 +131,27 @@ integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mH
 
   </div> <!-- end page -->
 
-  <script type="text/javascript">
-    var specvis1 = "js/WK10_map.vg.json";
-    vegaEmbed('#map', specvis1).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
+    <script type="text/javascript">
+      var specvis1 = "js/map.vg.json";
+      vegaEmbed('#map', specvis1).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
 
-    var specvis2 = "js/WK10_Exercise.vg.json";
-    vegaEmbed('#fitness', specvis2).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
-  </script>
+      var specvis2 = "js/Exercise.vg.json";
+      vegaEmbed('#fitness', specvis2).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+
+      var specvis3 = "js/Aus_minimum_physical_requirement.vg.json";
+      vegaEmbed('#graphs', specvis3).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+
+      var specvis4 = "js/ObesityDiabetes.vg.json";
+      vegaEmbed('#risk', specvis4).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+    </script> 
 
 </body>
 </html>

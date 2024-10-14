@@ -1,0 +1,54 @@
+body *{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.page {
+  width: 75%;
+  background-color: #F3FAF9;
+  margin: auto;
+  padding: 50px;
+  padding-top: 35px;
+  box-shadow: 10px 6px 12px rgba(0, 0, 0, 0.1);  
+  box-sizing: border-box;
+}
+
+.vis-container {
+  width: 100%;
+  padding-bottom: 25px;
+}
+
+.description h2,
+h1 {
+  margin-top: 0px;
+  font-weight: 10000;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Courier New';
+}
+
+.description-right {
+  padding-left: 20px;
+}
+
+.description-left {
+  padding-right: 20px;
+}
+
+.description-center {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.pure-g {
+  margin-bottom: 40px;
+}
+
+.small-font {
+  font-size: 14px;
+}
+
+.description p {
+  font-family: 'Verdana';
+  color: grey;
+}
