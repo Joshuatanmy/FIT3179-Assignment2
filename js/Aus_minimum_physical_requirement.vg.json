@@ -96,7 +96,7 @@
             },
             "tooltip": [
               {
-                "field": "percentageLabel", "type": "quantitative", "format": ".2%", "title": "% of People that met physical activity guidelines"
+                "field": "percentageLabel", "type": "quantitative", "format": ".2%", "title": "% of People"
               }
             ]
             
